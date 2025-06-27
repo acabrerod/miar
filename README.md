@@ -11,11 +11,13 @@ Each course module is organized by number (from `01` to `08`) and corresponds to
 1. [01-MIAR -- Python for AI](./01_miar_python)
 
     a. [Dataset exploration](./01_miar_python/dataset_exploration)
+
     b. Final proyect
 
 2. [03-MIAR -- Optimization Algorithms](./03_miar_optim_alg)
 
     a. Class exercises
+    
     b. Final proyect
 
 3. [05-MIAR -- Supervised learning](./05_miar)
